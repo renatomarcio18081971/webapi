@@ -22,7 +22,7 @@ namespace Cliente
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc(name: "V1", new OpenApiInfo { Title = "Minha Api", Version = "v1" });
+                c.SwaggerDoc(name: "v1", new OpenApiInfo { Title = "Minha Api", Version = "v1" });
             });
         }
 
