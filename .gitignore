@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cliente/Cliente/bin/Debug/netcoreapp3.1/Cliente.runtimeconfig.json
+/Cliente/Cliente/bin/Debug/netcoreapp3.1/Cliente.runtimeconfig.dev.json
+/Cliente/Cliente/bin/Debug/netcoreapp3.1/Cliente.pdb
+/Cliente/Cliente/bin/Debug/netcoreapp3.1/Cliente.exe
+/Cliente/Cliente/bin/Debug/netcoreapp3.1/Cliente.dll
+/Cliente/Cliente/bin/Debug/netcoreapp3.1/Cliente.deps.json
+/Cliente/.vs/Cliente/v16
+/Cliente/Cliente/obj
