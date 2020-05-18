@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace Cliente.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
@@ -43,5 +43,6 @@ namespace Cliente.Controllers
         {
 
         }
+
     }
 }
